@@ -40,6 +40,7 @@ export const Details = () => {
             <Select>
               <option value="usa">United States of America</option>
               <option value="uae">United Arab Emirates</option>
+              <option value="pak"> Pakistan </option>
               <option value="nmk">North Macedonia</option>
               <option value="de">Germany</option>
             </Select>
