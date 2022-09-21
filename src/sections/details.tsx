@@ -49,7 +49,7 @@ export const Details = () => {
           <Checkbox defaultChecked>Ship to billing address.</Checkbox>
         </GridItem>
         <GridItem colSpan={2}>
-          <Button variant="primary" size="lg" w="full">
+          <Button colorScheme="brand" size="lg" w="full">
             Place order
           </Button>
         </GridItem>
